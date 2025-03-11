@@ -26,7 +26,7 @@ jobs:
       - name: Terraform Validate
         id: validate
         run: terraform validate
-        working-directory: ./Terraform-vpc
+        working-directory: ./Terraform-VPC
       - name: Terraform Plan
         id: plan
         run: terraform plan
