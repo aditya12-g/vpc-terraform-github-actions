@@ -15,7 +15,7 @@ jobs:
     name: terraform-ci-cd
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: checkout
         uses: actions/checkout@v2
       - name: Set up Terraform
         uses: hashicorp/setup-terraform@v2
