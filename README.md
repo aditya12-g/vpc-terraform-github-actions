@@ -1,5 +1,4 @@
-Create and manage infrastructure using Terraform and automate the deployment process with GitHub Actions.
-![image alt](https://github.com/aditya12-g/vpc-terraform-github-actions/blob/6bcec76eb7311dd9949ffa93dfed619cd87f76fd/ci-cd.jpg)
+
 # 🚀 VPC Deployment with Terraform & GitHub Actions
 
 ![Terraform](https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg)
@@ -69,18 +68,16 @@ terraform apply -auto-approve
   3. **Apply Changes on Approval**
 
 ## 📸 Workflow Diagram
-![GitHub Actions Terraform](https://your-workflow-diagram-link.png)
+![image alt](https://github.com/aditya12-g/vpc-terraform-github-actions/blob/6bcec76eb7311dd9949ffa93dfed619cd87f76fd/ci-cd.jpg)
 
-## ❌ Troubleshooting
-- **`BucketAlreadyExists` Error**: Change S3 bucket name if used for state storage.
-- **Permission Issues**: Ensure IAM role has correct Terraform permissions.
+
 
 ## 📜 License
 This project is licensed under **MIT License**.
 
 ## 🙌 Connect with Me
 - 🔗 [GitHub Profile](https://github.com/aditya12-g)
-- ✉️ Email: your-email@example.com
+- ✉️ adityagangthade1998@gmail.com
 
 ---
 🌟 **If this project helps you, consider starring the repo!** ⭐
