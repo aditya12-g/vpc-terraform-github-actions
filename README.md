@@ -1,8 +1,6 @@
 
 # 🚀 VPC Deployment with Terraform & GitHub Actions
 
-![Terraform](https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg)
-
 ## 📌 Overview
 This project automates the deployment of an **AWS VPC** using **Terraform**, with **GitHub Actions** for CI/CD. The setup ensures infrastructure is provisioned and managed efficiently.
 
