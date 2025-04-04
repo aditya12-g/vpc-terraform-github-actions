@@ -68,7 +68,7 @@ terraform apply -auto-approve
 ## 📸 Workflow Diagram
 ![image alt](https://github.com/aditya12-g/vpc-terraform-github-actions/blob/6bcec76eb7311dd9949ffa93dfed619cd87f76fd/ci-cd.jpg)
 Result
-![image alt](
+![image alt](https://github.com/aditya12-g/vpc-terraform-github-actions/blob/main/Screenshot%20(8).png?raw=true) ![image alt
 
 ## 📜 License
 This project is licensed under **MIT License**.
